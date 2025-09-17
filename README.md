@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋!  Meu nome é Rafael e eu sou um Desenvolvedor Full Stack</h2>
+<h2 align="left">Olá👋!, Meu nome é Rafael e eu sou um Desenvolvedor Full Stack</h2>
 
 ###
 
