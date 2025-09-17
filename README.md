@@ -24,7 +24,6 @@
   <img width="12" />
 </div>
 
-###
 
 <div align="left">
   <a href="mailto:rafael.oliveira.figuere@gmail.com" target="_blank">
